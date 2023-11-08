@@ -1,0 +1,22 @@
+.first-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.second-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.last-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.inner-cont {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

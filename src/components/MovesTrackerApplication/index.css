@@ -1,0 +1,22 @@
+.bg-container {
+  display: flex;
+  flex-direction: row;
+}
+.left-container {
+  width: 33%;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.button-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 36px;
+  width: 120px;
+  background-color: transparent;
+  border: 0;
+}
